@@ -215,3 +215,5 @@ https://raw.githubusercontent.com/Ian-Lusule/Proxies-GUI/refs/heads/main/assets/
 
 # === ruproxy API (JSON) ===
 #RUPROXY
+
+https://rcloak.com/api/proxies/raw?protocol=all
